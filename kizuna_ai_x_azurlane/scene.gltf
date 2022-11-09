@@ -22685,13 +22685,13 @@
   ],
   "images": [
     {
-      "uri": "textures/ai_face_baseColor.png"
+      "uri": "https://raw.githubusercontent.com/sunzieck77/gltfModel/main/kizuna_ai_x_azurlane/textures/ai_face_baseColor.png"
     },
     {
-      "uri": "textures/ai_body_baseColor.png"
+      "uri": "https://raw.githubusercontent.com/sunzieck77/gltfModel/main/kizuna_ai_x_azurlane/textures/ai_body_baseColor.png"
     },
     {
-      "uri": "textures/ai_weapon_baseColor.png"
+      "uri": "https://raw.githubusercontent.com/sunzieck77/gltfModel/main/kizuna_ai_x_azurlane/textures/ai_weapon_baseColor.png"
     }
   ],
   "materials": [
