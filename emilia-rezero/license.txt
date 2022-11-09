@@ -1,0 +1,11 @@
+Model Information:
+* title:	Emilia-re:zero
+* source:	https://sketchfab.com/3d-models/emilia-rezero-d488f6e92c9d48d3a3eed31a902b13cf
+* author:	Tiago (https://sketchfab.com/ttiaguinho)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Emilia-re:zero" (https://sketchfab.com/3d-models/emilia-rezero-d488f6e92c9d48d3a3eed31a902b13cf) by Tiago (https://sketchfab.com/ttiaguinho) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
